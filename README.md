@@ -1,9 +1,12 @@
 ## Olá👋 Eu Sou Flávio ! 👨‍💻😊
 <div style="display inline_block" >
 <a href="https://www.linkedin.com/in/fl%C3%A1vio-dos-santos-j%C3%BAnior-a030b9200/" style="margin-botton 5px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="40" />
-Acessar meu Linkedin.</a>
-</div><br>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="27" />
+Acessar.</a>
+</div>
+<br>
+Profissional de Tecnologia com 11 anos de experiência. Formado em Redes de Computadores e familiarizado com ferramentas como Mikrotik, firewalls, HAProxy, Nginx, servidores Linux, Docker, Ansible e VPN e com linguagens de programação como Python, C ,javascript, bash script entre outras.
+##
 
 <div style="display inline_block"><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" height="50" /> 
