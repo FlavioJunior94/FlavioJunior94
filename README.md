@@ -1,7 +1,8 @@
 ## Olá👋 Eu Sou Flávio ! 👨‍💻😊
 <div style="display inline_block" >
+<a href="https://www.linkedin.com/in/fl%C3%A1vio-dos-santos-j%C3%BAnior-a030b9200/" style="margin-botton 5px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="40" />
-<a href="href="https://www.linkedin.com/in/fl%C3%A1vio-dos-santos-j%C3%BAnior-a030b9200/" style="margin-botton 5px">Acessar meu Linkedin.</a>
+Acessar meu Linkedin.</a>
 </div><br>        
 
 <div style="display inline_block"><br>
