@@ -4,8 +4,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="27" />
 Acessar.</a>
 </div>
-<br>
+<br/>
 Profissional de Tecnologia com 11 anos de experiência. Formado em Redes de Computadores e familiarizado com ferramentas como Mikrotik, firewalls, HAProxy, Nginx, servidores Linux, Docker, Ansible e VPN e com linguagens de programação como Python, C ,javascript, bash script entre outras.
+
 ##
 
 <div style="display inline_block"><br>
