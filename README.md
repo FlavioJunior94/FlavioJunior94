@@ -5,7 +5,7 @@
 Acessar.</a>
 </div>
 <br/>
-Profissional de Tecnologia com 11 anos de experiência. Formado em Redes de Computadores e familiarizado com ferramentas como Mikrotik, firewalls, HAProxy, Nginx, servidores Linux, Docker, Ansible e VPN e com linguagens de programação como Python, C ,javascript, bash script entre outras.
+Profissional de Tecnologia com 13 anos de experiência. Formado em Redes de Computadores e familiarizado com ferramentas como Mikrotik, firewalls, HAProxy, Nginx, servidores Linux, Docker, Ansible e VPN e com linguagens de programação como Python, C ,javascript, bash script entre outras.
 
 ##
 
